@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0188/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說七女經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0556.xml
+    old_id: T14n0556
+hash: sha256:e502de4accaf38aa1c433994b63837173fb28229bdd3fe10e464b4345bd3592e
